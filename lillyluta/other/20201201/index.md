@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "20201201"
+description: "Gallery for 20201201 (lillyluta/other/20201201)"
+active: gallery
+images:
+- image_path: lillyluta/other/20201201/20201201_202323_128252490_369507224353529_7990531435283919063_n.jpg
+- image_path: lillyluta/other/20201201/20201201_202323_128467454_385293652682677_2904209716005741851_n.jpg
+- image_path: lillyluta/other/20201201/20201201_202323_128507592_840974619993547_423956668803705834_n.jpg
+---

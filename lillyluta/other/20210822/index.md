@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "20210822"
+description: "Gallery for 20210822 (lillyluta/other/20210822)"
+active: gallery
+images:
+- image_path: lillyluta/other/20210822/20210822_104931_239454081_287242156494939_644565806297318653_n.jpg
+- image_path: lillyluta/other/20210822/20210822_104931_239764728_515251762911973_1873469658960279352_n.jpg
+- image_path: lillyluta/other/20210822/20210822_104931_240331606_292326352652357_3519465454905680645_n.jpg
+---

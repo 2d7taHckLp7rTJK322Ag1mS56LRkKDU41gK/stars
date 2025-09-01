@@ -13,10 +13,10 @@ images:
   resource: stars
   gallery-folder: /dikhahan123/
   gallery-name: ""
-- image_path: lillyluta/20190511_184015_58410230_346415222746542_4565247287315850250_n.jpg
+- image_path: label_image/album/20200223.jpg
   resource: stars
-  gallery-folder: /lillyluta/
-  gallery-name: "Li"
+  gallery-folder: /label_image/
+  gallery-name: "label_image"
 - image_path: lynhaky.hcm.romania.honoraryconsul/album1/0833_481187513_1170908331059792_6582456385598596445_n.jpg
   resource: stars
   gallery-folder: /lynhaky.hcm.romania.honoraryconsul/

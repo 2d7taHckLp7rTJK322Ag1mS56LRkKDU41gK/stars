@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "20221111"
+description: "Gallery for 20221111 (lillyluta/shirt/20221111)"
+active: gallery
+images:
+- image_path: lillyluta/shirt/20221111/20221111_185622_314737103_1963098797227901_4575180734848059616_n.jpg
+- image_path: lillyluta/shirt/20221111/20221111_185622_314904994_188448707028138_492489570934116961_n.jpg
+- image_path: lillyluta/shirt/20221111/20221111_185622_315106372_815060166212183_2677188747782748243_n.jpg
+---
