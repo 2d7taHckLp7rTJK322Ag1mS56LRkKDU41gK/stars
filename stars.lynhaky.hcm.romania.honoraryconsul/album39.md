@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "lynhaky.hcm.romania.honoraryconsul - Part album39"
 description: "facebook album of lynhaky.hcm.romania.honoraryconsul, part album39."
 active: gallery

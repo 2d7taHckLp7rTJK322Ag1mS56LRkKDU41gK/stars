@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part Vest"
 description: "facebook album of Li, part Vest."
 active: gallery

@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part trễ vai"
 description: "facebook album of Li, part trễ vai."
 active: gallery

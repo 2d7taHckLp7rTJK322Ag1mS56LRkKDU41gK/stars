@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part áo dài"
 description: "facebook album of Li, part áo dài."
 active: gallery

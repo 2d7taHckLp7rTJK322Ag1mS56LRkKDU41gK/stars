@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part sexy"
 description: "facebook album of Li, part sexy."
 active: gallery

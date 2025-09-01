@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part cổ trang"
 description: "facebook album of Li, part cổ trang."
 active: gallery

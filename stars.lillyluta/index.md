@@ -1,6 +1,6 @@
 ---
 layout: album_gallery
-resource: facebook
+resource: stars
 title: "Li"
 description: "facebook user profile of Li."
 active: gallery

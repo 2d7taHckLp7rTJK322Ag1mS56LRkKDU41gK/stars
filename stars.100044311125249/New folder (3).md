@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "100044311125249 - Part New folder (3)"
 description: "facebook album of 100044311125249, part New folder (3)."
 active: gallery

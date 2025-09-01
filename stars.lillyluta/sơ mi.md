@@ -1,6 +1,6 @@
 ---
 layout: album
-resource: facebook
+resource: stars
 title: "Li - Part sơ mi"
 description: "facebook album of Li, part sơ mi."
 active: gallery

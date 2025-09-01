@@ -1,6 +1,6 @@
 ---
 layout: album_gallery
-resource: facebook
+resource: stars
 title: "100044311125249"
 description: "facebook user profile of 100044311125249."
 active: gallery
