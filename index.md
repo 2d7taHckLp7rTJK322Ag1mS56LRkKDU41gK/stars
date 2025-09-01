@@ -13,6 +13,10 @@ images:
   resource: stars
   gallery-folder: /dikhahan123/
   gallery-name: ""
+- image_path: lillyluta/antique/20221116/20221116_195112_315478167_656222932800323_3875725153908644920_n.jpg
+  resource: stars
+  gallery-folder: /lillyluta/
+  gallery-name: "Li"
 - image_path: lynhaky.hcm.romania.honoraryconsul/album1/0833_481187513_1170908331059792_6582456385598596445_n.jpg
   resource: stars
   gallery-folder: /lynhaky.hcm.romania.honoraryconsul/
