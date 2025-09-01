@@ -1,0 +1,12 @@
+---
+layout: album_gallery
+resource: stars
+title: "180"
+description: "Gallery for 180 (dikhahan123/180)"
+active: gallery
+images:
+- image_path: dikhahan123/180/3565_110083753_688303398387204_3354485690681928361_n.jpg
+- image_path: dikhahan123/180/3566_113003773_688303368387207_7654675434453178697_n.jpg
+- image_path: dikhahan123/180/3567_110172679_688303345053876_7138844426987408498_n.jpg
+- image_path: dikhahan123/180/3568_110562121_687862625097948_8479832563676751754_n.jpg
+---

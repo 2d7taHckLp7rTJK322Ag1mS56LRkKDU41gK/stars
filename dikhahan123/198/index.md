@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "198"
+description: "Gallery for 198 (dikhahan123/198)"
+active: gallery
+images:
+- image_path: dikhahan123/198/1089_475774139_1709628132921387_2090950782128673766_n.jpg
+- image_path: dikhahan123/198/1090_475838949_1709627882921412_8732029609603849851_n.jpg
+- image_path: dikhahan123/198/1091_476064066_1709627879588079_2434894481636772608_n.jpg
+---

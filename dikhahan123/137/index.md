@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "137"
+description: "Gallery for 137 (dikhahan123/137)"
+active: gallery
+images:
+- image_path: dikhahan123/137/0711_480569481_1721545061729694_2349697477210065068_n.jpg
+- image_path: dikhahan123/137/0712_480608623_1721545058396361_9199218856717872953_n.jpg
+- image_path: dikhahan123/137/0713_480758910_1721545105063023_8739711061652770703_n.jpg
+---

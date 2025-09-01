@@ -1,0 +1,12 @@
+---
+layout: album_gallery
+resource: stars
+title: "178"
+description: "Gallery for 178 (dikhahan123/178)"
+active: gallery
+images:
+- image_path: dikhahan123/178/3509_117780529_704958973388313_9076322410801094192_n.jpg
+- image_path: dikhahan123/178/3510_117336725_704958466721697_8861535975783549122_n.jpg
+- image_path: dikhahan123/178/3511_117226492_704958420055035_4959684020903164479_n.jpg
+- image_path: dikhahan123/178/3512_117444940_704958300055047_5794439676950658782_n.jpg
+---

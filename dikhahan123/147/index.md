@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "147"
+description: "Gallery for 147 (dikhahan123/147)"
+active: gallery
+images:
+- image_path: dikhahan123/147/0976_475900896_1711271872757013_4325338921526706061_n.jpg
+- image_path: dikhahan123/147/0977_476092990_1711272069423660_7825683273932823923_n.jpg
+- image_path: dikhahan123/147/0978_476154404_1711271819423685_6560942824697308525_n.jpg
+---

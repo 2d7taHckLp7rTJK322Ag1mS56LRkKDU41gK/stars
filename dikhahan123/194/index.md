@@ -1,0 +1,11 @@
+---
+layout: album_gallery
+resource: stars
+title: "194"
+description: "Gallery for 194 (dikhahan123/194)"
+active: gallery
+images:
+- image_path: dikhahan123/194/0550_481039637_1724572201426980_4284149963223196622_n.jpg
+- image_path: dikhahan123/194/0551_481472126_1724572184760315_5507901664580027416_n.jpg
+- image_path: dikhahan123/194/0552_481097315_1724572221426978_5653363175774887142_n.jpg
+---

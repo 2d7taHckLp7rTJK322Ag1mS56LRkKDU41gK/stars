@@ -1,0 +1,12 @@
+---
+layout: album_gallery
+resource: stars
+title: "192"
+description: "Gallery for 192 (dikhahan123/192)"
+active: gallery
+images:
+- image_path: dikhahan123/192/3794_91804000_620205258530352_9145766977157988352_n.jpg
+- image_path: dikhahan123/192/3795_92020726_619995785217966_2266159624522563584_n.jpg
+- image_path: dikhahan123/192/3796_92701619_619995741884637_3400597101715914752_n.jpg
+- image_path: dikhahan123/192/3797_92246311_619989641885247_5920483559927185408_n.jpg
+---

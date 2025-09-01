@@ -1,0 +1,12 @@
+---
+layout: album_gallery
+resource: stars
+title: "078"
+description: "Gallery for 078 (dikhahan123/078)"
+active: gallery
+images:
+- image_path: dikhahan123/078/2840_152754829_833379567212919_2670050766341589982_n.jpg
+- image_path: dikhahan123/078/2861_151778151_830834480800761_8714713543226672188_n.jpg
+- image_path: dikhahan123/078/2862_151371293_830834460800763_2102214836450658474_n.jpg
+- image_path: dikhahan123/078/2863_151975933_830830977467778_1144768086605919122_n.jpg
+---
