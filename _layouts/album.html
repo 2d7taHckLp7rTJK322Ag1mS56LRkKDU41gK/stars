@@ -32,18 +32,13 @@ layout: default
 {% for image in page.images %}  		
                     <figure class="gallery-item">
                         <header class='gallery-icon'>
-                            {% if page.resource == 'facebook' %}
-                            <a href="{{ site.resource.facebook }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-                            <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
-                            {% else %}
-                            {% if page.resource == 'instagram' %}
-                            <a href="{{ site.resource.instagram }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-                            <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
-                            {% else %}
-                            <a href="{{ page.image_base_path }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-                            <img src="{{ page.image_base_path }}{{ image.image_path }}"></a>
+                            {% assign base_path = page.image_base_path %}
+                            {% if page.resource and site.resource[page.resource] %}
+                                {% assign base_path = site.resource[page.resource] %}
                             {% endif %}
-                            {% endif %}
+                            <a href="{{ base_path }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+                                <img src="{{ base_path }}{{ image.image_path }}">
+                            </a>
                         </header>	
                         <figcaption class='gallery-caption'>
                             <div class="entry-summary">

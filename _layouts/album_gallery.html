@@ -36,22 +36,11 @@ layout: default
                             <header class='gallery-icon'>
                             <a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
                             <!-- <img src="{{ image.image_path }}"></a> -->
-                            {% if page.resource == 'facebook' %}
-                            <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
+                            {% assign resource = image.resource | default: page.resource %}
+                            {% if resource and site.resource[resource] %}
+                            <img src="{{ site.resource[resource] }}{{ image.image_path }}"></a>
                             {% else %}
-                            {% if page.resource == 'instagram' %}
-                            <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
-                            {% else %}
-                                {% if image.resource == 'facebook' %}
-                                <img src="{{ site.resource.facebook }}{{ image.image_path }}"></a>
-                                {% else %}
-                                {% if image.resource == 'instagram' %}
-                                <img src="{{ site.resource.instagram }}{{ image.image_path }}"></a>
-                                {% else %}
-                                <img src="{{ image.image_path }}"></a>
-                                {% endif %}
-                                {% endif %}
-                            {% endif %}
+                            <img src="{{ image.image_path }}"></a>
                             {% endif %}
                             </header>	
                             <figcaption class='gallery-caption'>
