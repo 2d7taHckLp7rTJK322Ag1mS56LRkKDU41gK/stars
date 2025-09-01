@@ -13,10 +13,6 @@ images:
   resource: stars
   gallery-folder: /dikhahan123/
   gallery-name: ""
-- image_path: label_image/album/20200223.jpg
-  resource: stars
-  gallery-folder: /label_image/
-  gallery-name: "label_image"
 - image_path: lynhaky.hcm.romania.honoraryconsul/album1/0833_481187513_1170908331059792_6582456385598596445_n.jpg
   resource: stars
   gallery-folder: /lynhaky.hcm.romania.honoraryconsul/
