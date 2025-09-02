@@ -1,0 +1,14 @@
+---
+layout: album_gallery
+resource: stars
+title: "048"
+description: "Gallery for 048 (TrongVeoStudio187/other/048)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/other/048/4416_473569206_1348586976577189_8666860124443598190_n.jpg
+- image_path: TrongVeoStudio187/other/048/4417_473190489_1348586889910531_1600599242081865095_n.jpg
+- image_path: TrongVeoStudio187/other/048/4418_473078670_1348585929910627_5444277107582249423_n.jpg
+- image_path: TrongVeoStudio187/other/048/4419_473078484_1348585936577293_2331566404948672953_n.jpg
+- image_path: TrongVeoStudio187/other/048/4420_473190044_1348585859910634_2247683562098767385_n.jpg
+- image_path: TrongVeoStudio187/other/048/4421_473558969_1348585913243962_7818545025042029860_n.jpg
+---

@@ -1,0 +1,15 @@
+---
+layout: album_gallery
+resource: stars
+title: "044"
+description: "Gallery for 044 (TrongVeoStudio187/other/044)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/other/044/4193_475279688_1358505382252015_3646881402517956399_n.jpg
+- image_path: TrongVeoStudio187/other/044/4194_475108125_1358505285585358_909427742040181707_n.jpg
+- image_path: TrongVeoStudio187/other/044/4195_475225627_1358505392252014_1225353885128255840_n.jpg
+- image_path: TrongVeoStudio187/other/044/4196_475109180_1358504982252055_8253458500240293717_n.jpg
+- image_path: TrongVeoStudio187/other/044/4197_475181324_1358505348918685_858635356925512202_n.jpg
+- image_path: TrongVeoStudio187/other/044/4198_475243786_1358505292252024_5557814650193820498_n.jpg
+- image_path: TrongVeoStudio187/other/044/4199_475157507_1358505325585354_6570136157090132843_n.jpg
+---

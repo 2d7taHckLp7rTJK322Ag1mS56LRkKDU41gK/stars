@@ -5,6 +5,10 @@ description: "Gallery of facebook users."
 active: gallery
 header-img: "img/facebook-bg.jpg"
 images:
+- image_path: TrongVeoStudio187/aodai/5077_139835115_435910637844832_573922927685888451_n.jpg
+  resource: stars
+  gallery-folder: /TrongVeoStudio187/
+  gallery-name: "Trong Veo Studio"
 - image_path: ba.tung.7/10154438_1113366088706821_8386433175931169023_n.jpg
   resource: stars
   gallery-folder: /ba.tung.7/

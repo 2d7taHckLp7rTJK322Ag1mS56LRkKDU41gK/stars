@@ -1,0 +1,15 @@
+---
+layout: album_gallery
+resource: stars
+title: "049"
+description: "Gallery for 049 (TrongVeoStudio187/other/049)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/other/049/4435_473570426_1348582959910924_774146571607509123_n.jpg
+- image_path: TrongVeoStudio187/other/049/4436_473079526_1348582986577588_4895335036814037139_n.jpg
+- image_path: TrongVeoStudio187/other/049/4437_473077930_1348582823244271_8892778932238571109_n.jpg
+- image_path: TrongVeoStudio187/other/049/4438_473589786_1348582973244256_1701543732656566665_n.jpg
+- image_path: TrongVeoStudio187/other/049/4439_473192149_1348582969910923_1491556790560621231_n.jpg
+- image_path: TrongVeoStudio187/other/049/4440_472852182_1348583096577577_7227595889614969620_n.jpg
+- image_path: TrongVeoStudio187/other/049/4441_473190302_1348582956577591_3846703709069307798_n.jpg
+---

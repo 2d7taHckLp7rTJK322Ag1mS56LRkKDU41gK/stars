@@ -1,0 +1,15 @@
+---
+layout: album_gallery
+resource: stars
+title: "055"
+description: "Gallery for 055 (TrongVeoStudio187/aodai/055)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/aodai/055/4514_471842089_1339806324121921_7262968972981056303_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4515_472108545_1339806307455256_284749299788791248_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4516_471807414_1339806294121924_3549509308165579221_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4517_471630576_1339806264121927_1515061008721484936_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4518_472024460_1339806234121930_8054951808048207680_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4519_472193327_1339806310788589_1643287792871095523_n.jpg
+- image_path: TrongVeoStudio187/aodai/055/4520_471774069_1339806327455254_3425937800186992180_n.jpg
+---

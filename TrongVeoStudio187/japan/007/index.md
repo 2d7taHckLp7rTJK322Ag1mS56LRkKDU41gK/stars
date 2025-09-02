@@ -1,0 +1,15 @@
+---
+layout: album_gallery
+resource: stars
+title: "007"
+description: "Gallery for 007 (TrongVeoStudio187/japan/007)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/japan/007/4696_186515178_510923143676914_3619634604600774366_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4697_186276614_510923140343581_8337304885785054903_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4698_185927796_510923133676915_2987724226164812272_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4699_186510018_510923120343583_3284730653726866814_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4700_186503120_510923113676917_4070878000136392779_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4701_186491522_510923107010251_6894006138025331226_n.jpg
+- image_path: TrongVeoStudio187/japan/007/4702_186500108_510923103676918_1314950830679849309_n.jpg
+---

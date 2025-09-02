@@ -1,0 +1,16 @@
+---
+layout: album_gallery
+resource: stars
+title: "003"
+description: "Gallery for 003 (TrongVeoStudio187/khoelung/003)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/khoelung/003/0351_494044993_1210246331106305_7665787266969407098_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0352_494070304_1210246324439639_8194046876428263157_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0353_494333016_1210246291106309_2298943239433679109_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0354_494443101_1210246491106289_8608451268655997146_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0355_494369993_1210246561106282_2068207023153861047_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0356_494168269_1210246341106304_1395745280909313374_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0357_494519890_1210246517772953_640043533244579204_n.jpg
+- image_path: TrongVeoStudio187/khoelung/003/0358_494066342_1210246321106306_7678127373362163771_n.jpg
+---

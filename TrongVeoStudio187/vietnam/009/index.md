@@ -1,0 +1,16 @@
+---
+layout: album_gallery
+resource: stars
+title: "009"
+description: "Gallery for 009 (TrongVeoStudio187/vietnam/009)"
+active: gallery
+images:
+- image_path: TrongVeoStudio187/vietnam/009/4929_147885168_448921299877099_1663687481641927735_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4930_148333424_448921283210434_3176497765703350438_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4931_147843986_448921276543768_5991442160472823492_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4932_148489164_448921249877104_7004768939233228805_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4933_148077714_448921239877105_4311778377562722120_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4934_146905083_448921229877106_100400661160653024_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4935_149085056_448921206543775_8612181656732842942_n.jpg
+- image_path: TrongVeoStudio187/vietnam/009/4936_148960058_448921186543777_5293375694622221183_n.jpg
+---

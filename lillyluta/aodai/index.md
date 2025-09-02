@@ -9,10 +9,6 @@ images:
   gallery-folder: /lillyluta/aodai/20200526/
   gallery-name: "20200526"
   gallery-date: September 2025
-- image_path: lillyluta/aodai/20201211/20201211_170850_130892202_716546875656767_9185961076255264007_n.jpg
-  gallery-folder: /lillyluta/aodai/20201211/
-  gallery-name: "20201211"
-  gallery-date: September 2025
 - image_path: lillyluta/aodai/20211020/20211015_105637_245523663_221024196760397_4290911917804880910_n.jpg
   gallery-folder: /lillyluta/aodai/20211020/
   gallery-name: "20211020"
